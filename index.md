@@ -2,14 +2,14 @@
 > # INTRODUCTION
 
 Xarray Map Plotting comes with a variety of projection types and colormaps. Xarray , formerly known as xray, is a python package which enable us to play with gridded data. This package shares most of its features from numpy , but in a more convinient manner by keeping track of labels in arrays. The gridded data is mainly available in netCDF data format. Thus xarray comes very handy while dealing with netCDF files. The basic projections are a part of the cartopy.
-<br>
+<br><br>
 Xarray uses Cartopy and Matplotlib as the two main tools for creating detailed and informative plots.
 Cartopy is a python package used for geospatial data analysis. In the Python library, matplotlib is the most used scientific plotting library.
 For a multidimensional data consisting of latitudes and longitudes along with the other variables, xarray has the capability of appling cartopy map projections.
-<br>
+<br> <br> <br>
 > ## COLOR MAPS
 There are about 150 different kinds of maps available in the  colormaps options. This document contains a list of all the types of projections and colormaps available to the users while using the Xarray Map Plotting. These depict the global air temperature at 2 metres on a Kelvin Scale of range 220 K TO 320 K. Let's get started!
-Below is the complete list for reference.<br>
+Below is the complete list for reference.<br><br>
 <br>**ACCENT** <br>
 ![Accent](https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img1/Accent.png)
 <br> **BLUES** <br>
@@ -303,7 +303,7 @@ Below is the complete list for reference.<br>
 <br> **Winter** <br>
 ![Winter]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/winter.png )
 
-
+<br><br> [back to top](https://github.com/Quickbeasts51429/Xarray_ColorMaps/edit/main/index.md)
 
 
 
