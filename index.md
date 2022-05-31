@@ -292,8 +292,8 @@ There are about 150 different kinds of maps available in the  colormaps options.
 ![VikO]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/vikO.png )
 <br> **VikO_r** <br>
 ![VikO_r]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/vikO_r.png )
-<br> **Wik_r** <br>
-![Wik_r]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/vik_r.png )
+<br> **Vik_r** <br>
+![Vik_r]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/vik_r.png )
 <br> **Winter** <br>
 ![Winter]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/winter.png )
 
