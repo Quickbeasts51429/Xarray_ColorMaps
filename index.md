@@ -192,174 +192,110 @@ There are about 150 different kinds of maps available in the  colormaps options.
 ![Oslo_r]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img2/oslo_r.png )
 <br> **Pink** <br>
 ![Pink]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img2/pink.png )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
-<br> **** <br>
-![]( )
+<br> **PRGn** <br>
+![PRGn]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/PRGn.png )
+<br> **PiYG** <br>
+![PiYG]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/PiYG.png )
+<br> **PuBu** <br>
+![PuBu]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/PuBu.png )
+<br> **PuBuGn** <br>
+![PuBuGn](  https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/PuBuGn.png)
+<br> **PuOr** <br>
+![PuOr]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/PuOr.png )
+<br> **PuRd** <br>
+![PuRd]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/PuRd.png )
+<br> **Purples** <br>
+![Purples]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/Purples.png )
+<br> **RdBu** <br>
+![RdBu]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/RdBu.png )
+<br> **RdBu_r** <br>
+![RdBu_r]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/RdBu_r.png )
+<br> **RdBu_r** <br>
+![RdBu_r]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/RdBu_r.png)
+<br> **RdGy_r** <br>
+![RdGy_r]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/RdGy_r.png )
+<br> **RdPu** <br>
+![RdPu]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/RdPu.png)
+<br> **RdPu_r** <br>
+![RdPu_r](https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/RdPu_r.png )
+<br> **RdYIBu** <br>
+![RdYIBu]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/RdYIBu.png)
+<br> **RdYIGn** <br>
+![RdYIGn]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/RdYIGn.png)
+<br> **Reds** <br>
+![Reds](https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/Reds.png )
+<br> **Set1** <br>
+![Set1]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/Set1.png)
+<br> **Set2** <br>
+![Set2]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/Set2.png )
+<br> **Set3** <br>
+![Set3]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/Set3.png )
+<br> **Spectral** <br>
+![Spectral]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/Spectral.png )
+<br> **Wistia** <br>
+![Wistia]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/Wistia.png )
+<br> **YIGn** <br>
+![YIGn]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/YIGn.png )
+<br> **YIGnBu** <br>
+![YIGnBu]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/YIGnBu.png )
+<br> **YIOrBr** <br>
+![YIOrBr]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/YIOrBr.png )
+<br> **YIOrRd** <br>
+![YIOrRd]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/YIOrRd.png )
+<br> **Prism** <br>
+![Prism]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/prism.png )
+<br> **Rainbow** <br>
+![Rainbow]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/rainbow.png )
+<br> **Roma** <br>
+![Roma]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/roma.png )
+<br> **RomaO** <br>
+![RomaO]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/romaO.png )
+<br> **RomaO_r** <br>
+![RomaO_r]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/romaO_r.png )
+<br> **Roma_r** <br>
+![Roma_r]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/roma_r.png )
+<br> **Seismic** <br>
+![Seismic]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/seismic.png )
+<br> **Spring** <br>
+![Spring]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/spring.png  )
+<br> **Summer** <br>
+![Summer]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/summer.png )
+<br> **Tab10** <br>
+![Tab10]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/tab10.png )
+<br> **Tab20** <br>
+![Tab20]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/tab20.png )
+<br> **Tab20b** <br>
+![Tab20b]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/tab20b.png )
+<br> **Tab20c** <br>
+![Tab20c]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/tab20c.png )
+<br> **Terrain** <br>
+![Terrain]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/terrain.png )
+<br> **Tofino** <br>
+![Tofino]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/tofino.png)
+<br> **Tofino_r** <br>
+![Tofino_r]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/tofino_r.png )
+<br> **Tokyo** <br>
+![Tokyo]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/tokyo.png )
+<br> **Tokyo_r** <br>
+![Tokyo_r]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/tokyo_r.png )
+<br> **Turku** <br>
+![Turku]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/turku.png )
+<br> **Turku_r** <br>
+![Turku_r]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/turku_r.png )
+<br> **Vanimo** <br>
+![Vanimo]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/vanimo.png )
+<br> **Vanimo_r** <br>
+![Vanimo_r]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/vanimo_r.png )
+<br> **Vik** <br>
+![Vik]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/vik.png )
+<br> **VikO** <br>
+![VikO]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/vikO.png )
+<br> **VikO_r** <br>
+![VikO_r]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/vikO_r.png )
+<br> **Wik_r** <br>
+![Wik_r]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/vik_r.png )
+<br> **Winter** <br>
+![Winter]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/winter.png )
 
 
 
