@@ -4,7 +4,7 @@
 
 > ## COLOR MAPS
 There are about 150 different kinds of maps available in the  colormaps options. Below is the complete list for reference.
-<br>**ACCENT** <br>
+> <br>**ACCENT** <br>
 ![Accent](https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img1/Accent.png)
 <br> **BLUES** <br>
 ![Blues]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img1/Blues.png )
