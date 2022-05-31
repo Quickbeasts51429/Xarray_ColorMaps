@@ -1,3 +1,27 @@
+---
+layout: tutorial_hands_on
+title: Getting your hands-on climate data
+zenodo_link: 'https://doi.org/10.5281/zenodo.3776499'
+questions:
+- What is climate?
+- What type of data is available?
+objectives:
+- Learn about the terminology
+- Learn about the different source of climate data
+- Learn about climate observations, reanalysis, climate predictions and climate projections
+time_estimation: 1H
+key_points:
+- Weather versus Climate
+- Essential Climate Variables
+- Observations, reanalysis, predictions and projections.
+contributors:
+- annefou
+
+---
+
+
+
+
 > # INTRODUCTION
 
  Xarray Map Plotting comes with a variety of projection types and colormaps. The basic projections are a part of the cartopy. This document contains a list of all the types of   projections and colormaps available to the users while using the Xarray Map Plotting. Let's get started!
