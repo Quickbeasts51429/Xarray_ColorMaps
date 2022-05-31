@@ -1,10 +1,10 @@
 
 > # INTRODUCTION
 
-Xarray Map Plotting comes with a variety of projection types and colormaps. Xarray , formerly known as xray, is a python package which enable us to play with gridded data. This package shares most of its features from numpy , but in a more convinient manner by keeping track of labels in arrays. The gridded data is mainly available in netCDF data format. Thus xarray comes very handy while dealing with netCDF files. The basic projections are a part of the cartopy.
+**Xarray Map Plotting** comes with a variety of projection types and colormaps. **Xarray** , formerly known as xray, is a python package which enable us to play with gridded data. This package shares most of its features from numpy , but in a more convinient manner by keeping track of labels in arrays. The gridded data is mainly available in netCDF data format. Thus xarray comes very handy while dealing with **netCDF** files. The basic projections are a part of the cartopy.
 <br><br>
 Xarray uses Cartopy and Matplotlib as the two main tools for creating detailed and informative plots.
-Cartopy is a python package used for geospatial data analysis. In the Python library, matplotlib is the most used scientific plotting library.
+**Cartopy** is a python package used for geospatial data analysis. In the Python library, matplotlib is the most used scientific plotting library.
 For a multidimensional data consisting of latitudes and longitudes along with the other variables, xarray has the capability of appling cartopy map projections.
 <br> <br> <br>
 > ## COLOR MAPS
