@@ -8,7 +8,7 @@ Cartopy is a python package used for geospatial data analysis. In the Python lib
 For a multidimensional data consisting of latitudes and longitudes along with the other variables, xarray has the capability of appling cartopy map projections.
 <br>
 > ## COLOR MAPS
-There are about 150 different kinds of maps available in the  colormaps options. This document contains a list of all the types of projections and colormaps available to the users while using the Xarray Map Plotting. Let's get started!
+There are about 150 different kinds of maps available in the  colormaps options. This document contains a list of all the types of projections and colormaps available to the users while using the Xarray Map Plotting. These depict the global air temperature at 2 metres on a Kelvin Scale of range 220 K TO 320 K. Let's get started!
 Below is the complete list for reference.<br>
 <br>**ACCENT** <br>
 ![Accent](https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img1/Accent.png)
