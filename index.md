@@ -303,7 +303,7 @@ Below is the complete list for reference.<br><br>
 <br> **Winter** <br>
 ![Winter]( https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/img3/winter.png )
 
-<br><br> [back to top](https://github.com/Quickbeasts51429/Xarray_ColorMaps/edit/main/index.md)
+<br><br> [back to top](https://github.com/Quickbeasts51429/Xarray_ColorMaps/blob/main/index.md)
 
 
 
